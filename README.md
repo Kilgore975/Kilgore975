@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kilgore975
 - 👀 I’m interested in App/Game Development
-- 🌱 I’m currently learning C++, Java, BluePrints, Full Stack Development
+- 🌱 I’m currently learning C++, Java, BluePrints, UnrealEngine, Full Stack Development
 - 💞️ I’m looking to collaborate on Entry Level Projects
 - 📫 You can reach me here on GitHub
 
